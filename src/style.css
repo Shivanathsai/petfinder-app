@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #ad343e;
+  background-color: #850e18;
   margin: 0;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -12,7 +12,7 @@ body {
 .search,
 .details,
 .search-params {
-  background-color: #c4b2bc;
+  background-color: #ffffff;
   width: 95%;
   margin: 0 auto;
   padding: 15px;
@@ -65,7 +65,7 @@ body {
 }
 
 header a {
-  color: #f2af29;
+  color: #ffffff;
   font-size: 50px;
   text-decoration: none;
   font-weight: bold;
